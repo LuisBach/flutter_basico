@@ -1,2 +1,4 @@
-# flutter_basico
-Estrutura básica de projetos em flutter
+# bytebank
+
+Projeto com estrutura básica para inicio dos estudos em flutter.
+Se trata de um aplicativo que realiza o cadastro e listagem de valores de transferência.
